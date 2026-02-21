@@ -1,0 +1,15 @@
+[
+  {
+    "user_id": 1345680605,
+    "username": "mustfave",
+    "name": "Sayan",
+    "mode": "Случайные примеры",
+    "score": 4,
+    "total": 5,
+    "answered": 4,
+    "percent": 80,
+    "grade": 4,
+    "stopped": true,
+    "created_at_utc": "2026-02-21T09:00:36.809720+00:00"
+  }
+]
